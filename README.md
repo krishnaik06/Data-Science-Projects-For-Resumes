@@ -1,7 +1,7 @@
 # Data-Science-Projects-For-Resumes
 
 ![image](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce)
-<img src="https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce" width="1000" height="1000">
+<img src="https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce" width="500" height="500">
 
 ### Machine Learning, Deep Learning, and NLP Projects
 
