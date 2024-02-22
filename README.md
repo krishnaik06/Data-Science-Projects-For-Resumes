@@ -1,7 +1,6 @@
 # Data-Science-Projects-For-Resumes
 
 ![image](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce)
-<img src="https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce" width="1000" height="500">
 
 ### Machine Learning, Deep Learning, and NLP Projects
 
@@ -26,9 +25,7 @@
 8. **End-to-End ML Project Implementation with Dockers, GitHub Action** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
 9. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
 10. **Kidney Disease Classification** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=86BKEv0X2xU)
-
-11. **Langchain Open AI Project** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=_FpT1cwcSLg&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar)
-12. **End To End Generative AI Projects**
+11. **End To End Generative AI Projects**
     - **End To End Advanced RAG App Using AWS Bedrock And Langchain** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=0LE5XrxGvbo)
     - **Fine Tune LLAMA 2 With Custom Dataset Using LoRA And QLoRA Techniques** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Vg3dS-NLUT4) 
     - **End To End Youtube Video Transcribe Summarizer LLM App With Google Gemini Pro** [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HFfXvfFe9F8)
