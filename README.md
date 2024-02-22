@@ -1,5 +1,8 @@
 # Data-Science-Projects-For-Resumes
 
+![image](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes/assets/20041231/3c2a6643-73ff-4235-858f-1c70d653a0ce)
+
+
 ### Machine Learning, Deep Learning, and NLP Projects
 
 1. **First End-To-End ML Project for Starters [Student Performance Prediction]**  [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Rv6UFGNmNZg&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=2)
